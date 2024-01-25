@@ -7,7 +7,7 @@ This module adds video chat rooms to Edrys. It is based on [Jitsi](https://meet.
 Simply add this URL to your class modules:
 
 ```
-https://edrys-org.github.io/module-video-chat/
+https://edrys-labs.github.io/module-video-chat/
 ```
 
 ## Development
